@@ -1,2 +1,0 @@
-# sidecar-test
-sidecar-test
